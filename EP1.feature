@@ -22,7 +22,7 @@ Feature: HU01: Como persona interesada en realizar ejercicios deseo visualizar a
 
 
 
-Feature:HU03: Revisión del perfil de los entrenadores
+Feature:HU03: Como persona interesada en realizar ejercicios quiero revisar el perfil de los entrenadores 
   Scenario:E01: Visulacion del perfil del entrenador
   TA01: 
   Given el usuario quiere visualizar el perfil del entrenador
@@ -34,7 +34,7 @@ Feature:HU03: Revisión del perfil de los entrenadores
 
 
 
-Feature:HU04: Visualización de los horarios de los entrenadores   
+Feature:HU04: Como persona interesada en realizar ejercicios quiero visualizar los horarios que maneja el entrenador  
  Scenario:E01: Similitud en los horarios
  TA01:
  Given el usuario quiere ver los horarios de los entrenadores
